@@ -12,7 +12,4 @@ Collections of my mods to Voron 2.4 build volume 300
     <td align="center"><a href="./Revo_Nozzle_Skirt">Revo Nozzle Skirt<br><img src="./Revo_Nozzle_Skirt/Images/cad_closed.png"width=196px></a></td>
     	<td align="center"></td>
   </tr>
-  <tr>
-    <td colspan="2" align="center"></td>
-  </tr>
   </table>
