@@ -13,22 +13,6 @@ Collections of my mods to Voron 2.4 build volume 300
     	<td align="center"></td>
   </tr>
   <tr>
-    <td align="center"></td>
-	<td align="center"></td>
-  </tr> 
-  <tr>
-    <td align="center"></td>
-	<td align="center"></td>
-  </tr> 
-  <tr>
-    <td align="center"></td>
-	<td align="center"></td>
-  </tr>
-  <tr>
-    <td align="center"></td>
-    <td align="center"></td>
-  </tr>
-    <tr>
     <td colspan="2" align="center"></td>
   </tr>
   </table>
