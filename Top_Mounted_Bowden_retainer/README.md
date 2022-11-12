@@ -1,7 +1,8 @@
 # Top mounted bowden retainer
 
-Top mounted bowden retainer for use with top mounded spool holders  
+This is a remix of the official Voron2.4 bowden retainer, so that you can use it with a top mounded spool holder.  
 The retainer is designed to be used on 3mm panels with 3mm foam   
+
 
 ![Closed](Images/cad.png)
 ![Mounted1](Images/mounted1.jpg)
