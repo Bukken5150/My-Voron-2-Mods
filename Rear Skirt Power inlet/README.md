@@ -4,7 +4,6 @@ Power rocker switch moved to the either left/right front side skirt of the Voron
 
 ![Closed](Images/cad.png)
 ![Opened](Images/installed.jpg)
-![Opened](Images/rocker-switch.jpg)
 
 Compatible with 300 Voron 2.4.  
 
