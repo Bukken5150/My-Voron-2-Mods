@@ -1,6 +1,5 @@
-<center>Center this text!</center>
 <h1 align="center">Mod Index:</h1>
-<center>Collections of my mods to Voron 2.4 build volume 300</center>
+<h3 align="center">Collections of my mods to Voron 2.4 - 300</h3>
 <table align="center">
   <tr>
     <td align="center"><a href="./Rear_Skirt_Power_Inlet">Rear Skirt Power Inlet<br><img src="./Rear_Skirt_Power_Inlet/Images/cad.png" width=196px></a></td>
