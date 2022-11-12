@@ -10,7 +10,7 @@
     <td align="center"><a href="./Top_Mounted_Bowden_retainer">Top Mounted Bowden retainer<br><img src="./Top_Mounted_Bowden_retainer/Images/cad.png" width=196px></a></td>
   </tr>
     <tr>
-    <td align="center"><a href="./Din_Rail_Ziptie_Mount">Din Rail ZipTie Mount<br><img src="./Din_Rail_Ziptie_Mount/Images/cad_closed.png"width=196px></a></td>
+    <td align="center"><a href="./Din_Rail_Ziptie_Mount">Din Rail ZipTie Mount<br><img src="./Din_Rail_Ziptie_Mount/Images/cad.png"width=196px></a></td>
     <td align="center"></td>
   </tr>
     <td colspan="2" align="center"></td>
