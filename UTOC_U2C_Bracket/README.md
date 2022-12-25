@@ -1,4 +1,4 @@
-# Rear Skirt Filtered Power Inlet
+# UTOC / U3C Brackets
 
 Brackets for either Mellows UTOC boards or Bightreetechs U2C boards
 
