@@ -1,4 +1,4 @@
-# UTOC / U3C Brackets
+# UTOC / U2C Brackets
 
 Brackets for either Mellows UTOC boards or Bightreetechs U2C boards
 
