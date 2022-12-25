@@ -1,6 +1,6 @@
 # UTOC / U2C Brackets
 
-Brackets for either Mellows UTOC boards or Bightreetechs U2C boards
+Brackets for either Mellows UTOC boards or Bigtreetechs U2C boards
 
 ![Closed](Images/cad.jpg)
 
